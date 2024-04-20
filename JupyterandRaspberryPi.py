@@ -1,9 +1,4 @@
-# program: ajain74_PRG550A.231.Ass2.ipynb
-# name: Aayush Jain
-# student number: 125609214
-# date: December 7, 2023
-# course: PRG550A
-# purpose: solution to PRG550C Assignment #2 (Fall 2023) using Jupyter on the Raspberry Pi
+
 
 import re
 from datetime import datetime
