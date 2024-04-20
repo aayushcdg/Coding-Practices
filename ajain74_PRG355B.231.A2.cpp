@@ -1,10 +1,4 @@
-/*
-   program:         ajain74_PRG355B.231.A2.cpp
-   student name:    Aayush Jain
-   student number:  125609214
-   section:         PRG355B (must include the exact course code and section)
-   purpose:         solution PRG355 Winter 2023 assignment #2
-*/
+
 
 CompactDisc::CompactDisc ()
 {
