@@ -1,10 +1,4 @@
-/*
-   program: ajain74_PRG355B.231.L2.c
-   student name:    Aayush Jain
-   student number:  125609214
-   section:         PRG355NBBL
-   purpose:         solution to lab #2
-*/
+
 
 
 void fillColor(struct Color *p, struct Data d, char type)
