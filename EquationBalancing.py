@@ -1,5 +1,4 @@
-# author:  Aayush Jain
-# date:    October 19th, 2023
+
 
 import math
 import random
