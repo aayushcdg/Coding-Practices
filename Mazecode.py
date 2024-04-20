@@ -1,7 +1,3 @@
-# program: A1main.py
-   # author:  Aayush Jain
-   # date:    October 18, 2023
-   # purpose: python program for PRG550 Assignment #1
 
 import copy
 
