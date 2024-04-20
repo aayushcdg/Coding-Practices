@@ -1,10 +1,4 @@
-/*
-   program:         ajain74_PRG355B.231.TT1.cpp
-   student:         Aayush Jain
-   student number:  125609214
-   date:            march 24, 2023
-   purpose:         solution to PRG355B Midterm Test
-*/
+
 
 StringTwister::StringTwister ()
 {				//Default constructor assigning
