@@ -1,7 +1,3 @@
-/*
-Submitted By: Aayush Jain
-File Name: Final Project for HSI 255
-*/
 
 #include <stdio.h>
 #include <stdlib.h>
