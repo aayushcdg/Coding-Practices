@@ -1,10 +1,4 @@
-/*
-   program:         ajain74_PRG355B.231.L1.c
-   student name:    Aayush Jain
-   student number:  125609214
-   section:         PRG355B
-   purpose:         Solution to lab #1
-*/
+
 
 #include <stdio.h>
 #include <string.h>
