@@ -1,9 +1,5 @@
 #!/usr/bin/python3
-"""
-# Program: LNX255 Assignment 2
-# Student: : Aayush Jain
-#    Date: April, 2022
-"""
+
 from gpiozero import PWMLED, Button
 from signal import pause, signal, SIGTERM, SIGHUP
 from time import sleep
